@@ -31,12 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=정민채&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=정민채&theme=default" height="150"/>
-</p>
 
 ---
 
