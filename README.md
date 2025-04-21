@@ -1,5 +1,5 @@
 <h1 align="center">
-  👩‍💻 정민채 | ONZ
+  👩‍💻 정민채
 </h1>
 
 <p align="center">
