@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💼 Backend Developer · 💡 Spring Boot Enthusiast · 🇨🇳 Chinese Learner
+  💼 Backend Developer
 </p>
 
 ---
