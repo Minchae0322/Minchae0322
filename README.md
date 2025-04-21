@@ -10,7 +10,7 @@
 
 ### 🏫 Introduction
 
-- 🎓 Harbin Institute of Technology, HIT (2020 ~ 2025)
+- 🎓 Harbin Institute of Technology, HIT (2017 ~ 2024)
 - ☕ 전공: 컴퓨터 공학
 - 💬 관심 기술: Spring Boot, REST API, MSA, JPA, JWT, CI/CD
 
