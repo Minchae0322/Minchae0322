@@ -42,7 +42,8 @@
 - 📝 **피드 & 리뷰** — 아이템 리뷰를 공유하는 소셜 피드
 - ⚔️ **월간 배틀** — 매달 진행되는 아이템 간 대결 이벤트
 
-**기술 스택**: `Spring Boot` `JPA` `MySQL` `Redis` `JWT` `Docker` `Kubernetes` `MSA`
+**기술 스택**: `Spring Boot` `JPA` `MySQL` `Redis` `JWT` · `Docker` `Kubernetes` `GitHub Actions` · `Prometheus` `Grafana` · `MSA`
+
 
 🔗 **[서비스 바로가기](https://yogurtte.com/)**
 
