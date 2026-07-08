@@ -146,7 +146,6 @@ public class Minchae {
 
 | 채널 | 링크 |
 |:---:|:---|
-| 🌐 Portfolio | [yogurtte.com](https://yogurtte.com) |
 | 📧 Email | [jmcabc0322@gmail.com](mailto:jmcabc0322@gmail.com) |
 | 🐙 GitHub | [github.com/Minchae0322](https://github.com/Minchae0322) |
 
