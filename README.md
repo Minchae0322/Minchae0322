@@ -1,68 +1,66 @@
-<h1 align="center">
-  정민채
-</h1>
+<h1 align="center">정민채</h1>
+
 <p align="center">
-  Backend Developer
+Backend Developer
+</p>
+
+<p align="center">
+Building, Operating and Improving Backend Systems
 </p>
 
 ---
 
-### 🏫 Introduction
-- 🎓 Harbin Institute of Technology, HIT (2017 ~ 2024)
-- ☕ 전공: 컴퓨터 공학
-- 💬 관심 기술: Spring Boot, REST API, MSA, JPA, JWT, CI/CD
+## About
+
+안녕하세요.
+
+Java와 Spring Boot를 중심으로 백엔드 서비스를 개발하고 있습니다.
+
+기능을 구현하는 것보다 **왜 문제가 발생했는지 분석하고**, **더 나은 구조로 개선하는 과정**을 즐깁니다.
+
+최근에는 Kubernetes 기반 서비스 운영, Kafka를 활용한 이벤트 기반 아키텍처, 성능 최적화와 Observability에 관심을 가지고 공부하며 직접 서비스에 적용하고 있습니다.
 
 ---
 
-### 🌱 What I Use
+## Current Project
 
-**Language & Framework**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-</p>
+### Yogurtte
+
+사용자가 제품을 공유하고 리뷰를 작성하는 커뮤니티 서비스입니다.
+
+서비스 기획부터 개발, 인프라 구축, 배포, 운영까지 직접 진행하고 있습니다.
+
+https://yogurtte.com
+
+---
+
+## Tech
+
+**Backend**
+
+Java • Spring Boot • Spring Security • JPA • QueryDSL • Kafka
 
 **Database**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-</p>
 
-**Infra & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-</p>
+MySQL • Redis • DB2
+
+**Infrastructure**
+
+Docker • Kubernetes • AWS • GitHub Actions • Nginx
 
 **Monitoring**
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-</p>
 
+Prometheus • Grafana • Loki • Tempo
 
 ---
 
-### 🚀 Projects
+## Writing
 
-#### 🥛 [요거뜨 (Yogurtte)](https://yogurtte.com/)
-> **제품 리뷰 & 랭킹 플랫폼** — 좋아하는 제품을 발견하고, 평가하고, 공유하는 공간
+배운 내용을 기록하고 공유하는 것을 좋아합니다.
 
-사용자가 직접 제품을 등록하고 리뷰를 남기며, 커뮤니티가 함께 만드는 제품 랭킹 서비스입니다.  
-백엔드를 MSA 구조로 설계하여 도메인별 서비스를 독립적으로 운영하고 확장할 수 있도록 구축했습니다.
-
-**주요 기능**
-- 🏆 **HOT 100 랭킹** — 사용자 활동 기반 실시간 인기 제품 랭킹
-- 📝 **피드 & 리뷰** — 아이템 리뷰를 공유하는 소셜 피드
-- ⚔️ **월간 배틀** — 매달 진행되는 아이템 간 대결 이벤트
-
-**기술 스택**: `Spring Boot` `JPA` `MySQL` `Redis` `JWT` · `Docker` `Kubernetes` `GitHub Actions` · `Prometheus` `Grafana` · `MSA`
-
-
-🔗 **[서비스 바로가기](https://yogurtte.com/)**
-
----
+- Kubernetes
+- Spring Boot
+- Kafka
+- Observability
+- Performance
+- Concurrency
