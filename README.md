@@ -6,12 +6,6 @@
 </p>
 
 ---
-
-### 🏫 Introduction
-- 🎓 Harbin Institute of Technology, HIT (2017 ~ 2024)
-- ☕ 전공: 컴퓨터 공학
-- 💬 관심 기술: Spring Boot, REST API, MSA, JPA, JWT, CI/CD
-
 ---
 
 ### 🌱 What I Use
@@ -46,18 +40,5 @@
 
 
 ---
-
-### 🚀 Projects
-
-#### 🥛 [요거뜨 (Yogurtte)](https://yogurtte.com/)
-> **제품 리뷰 & 랭킹 플랫폼** — 좋아하는 제품을 발견하고, 평가하고, 공유하는 공간
-
-사용자가 직접 제품을 등록하고 리뷰를 남기며, 커뮤니티가 함께 만드는 제품 랭킹 서비스입니다.  
-백엔드를 MSA 구조로 설계하여 도메인별 서비스를 독립적으로 운영하고 확장할 수 있도록 구축했습니다.
-
-**기술 스택**: `Spring Boot` `JPA` `MySQL` `Redis` `JWT` · `Docker` `Kubernetes` `GitHub Actions` · `Prometheus` `Grafana` · `MSA`
-
-
-🔗 **[서비스 바로가기](https://yogurtte.com/)**
 
 ---
